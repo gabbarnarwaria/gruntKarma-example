@@ -1,0 +1,25 @@
+{
+  "name": "gruntKarma-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "coffee-script": "^1.9.3",
+    "grunt": "^0.4.5",
+    "grunt-coffee": "0.0.6",
+    "grunt-contrib-coffee": "^0.13.0",
+    "grunt-karma": "^0.11.1",
+    "karma": "^0.12.36",
+    "karma-chai": "^0.1.0",
+    "karma-chrome-launcher": "^0.1.12",
+    "karma-coffee-preprocessor": "^0.2.1",
+    "karma-mocha": "^0.1.10",
+    "mocha": "^2.2.5"
+  }
+}
